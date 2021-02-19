@@ -7,11 +7,11 @@ server:
     #config: "HTTP_Listener_config"
     
   http:
-    host: "0.0.0.0"
+    host: "md1npdvjce01.dev.corp.local"
     port: "9831"
     
   https:
-    host: "0.0.0.0"
+    host: "md1npdvjce01.dev.corp.local"
     port: "9830"
     tls:
       context: "HTTPS_Listener_TLS_Context"
